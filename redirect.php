@@ -2,7 +2,7 @@
 /*
 Plugin Name: WooCommerce Login Redirect
 Plugin URI: https://github.com/nayemDevs/woocommerce-login-redirect
-Description: This is a plugin for WooCommerce
+Description: Redirect your user after login/registration in WooCommerce
 Version: 1.0
 Author: Nayem
 Author URI: nayemdevs.com
