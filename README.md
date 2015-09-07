@@ -1,4 +1,4 @@
-=== WooCommerce Login Redirect ===
+=== Woo Login Redirect ===
 Contributors: nazmulhassann20
 Tags: menu, hider, Dokan, Multivendor, Seller menu, Dashboard
 Requires at least: 3.3
@@ -7,7 +7,7 @@ Stable tag: 0.1
 
 ## Description ##
 
- #### WooCOmmerce Login Redirect for **WooCommerce** plugin.
+ #### Woo Login Redirect for **WooCommerce** plugin.
 	
 > You have to install [**WooCommerce**](https://wordpress.org/plugins/woocommerce/) plugin
 
